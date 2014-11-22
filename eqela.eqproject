@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# BOUNCEBALL
+#
+
+projectname: BOUNCEBALL
+vendorid: com.mycompany
+mainmodule: com.mycompany.bounceball
